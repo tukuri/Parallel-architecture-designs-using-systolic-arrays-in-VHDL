@@ -1,5 +1,5 @@
 # Parallel-computation-designs-using-systolic-arrays-in-VHDL
-Digital designs that do parallel computation through by utilizing processing elements (PE's). They are part of assignments for Advanced Digital Designs course (EE119B) at Caltech.
+Designed and implemented systolic array architectures that do parallel computation through processing elements (PE's). They were part of assignments for Advanced Digital Designs course (EE119B) at Caltech.
 
 **Conway's Game of Life**
 
