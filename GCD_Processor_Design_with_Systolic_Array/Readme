@@ -1,1 +1,1 @@
-Designed a systolic array for computing the GCD of two unsigned numbers, which can compute the results in one clock through pipelined cells.  
+Designed a systolic array for computing the GCD of two unsigned numbers, which can compute the results in one clock through pipelined PE(Processing Element) cells.  
