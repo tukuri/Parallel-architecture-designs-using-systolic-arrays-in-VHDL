@@ -2,7 +2,7 @@
 -- 	GCD_Processor
 --
 --Description: 
--- 	This is a GCD processor that calculates the GCD of two unsigned numbers(NUM_BITS bits), by using a linear 
+--  This is a GCD processor that calculates the GCD of two unsigned numbers(NUM_BITS bits), by using a linear 
 --  array of processing elements (PE's). It uses the parallel dividers and Euclidean Division Algorithm to 
 --  calculate the GCD. 
 --  The pseudocode for Euclidean Division Algorithm is as follows.
@@ -37,13 +37,13 @@
 --      MAX_ITERATIONS : Number of iterations for the worst case (consecutive Fibonacci numbers)
 --	Inputs
 -- 	    Clk    : System clock  (1 bit)
---		OpA	   : First input   (NUM_BITS bits)
---		OpB    : Second input  (NUM_BITS bits)
+--	    OpA	   : First input   (NUM_BITS bits)
+--	    OpB    : Second input  (NUM_BITS bits)
 --	Outputs
---		GCD	   : GCD of two numbers (NUM_BITS bits)
+--	    GCD	   : GCD of two numbers (NUM_BITS bits)
 --
 --Revision History
---	03/05/2019	Sung Hoon Choi	Created
+--  03/05/2019	Sung Hoon Choi	Created
 --  03/08/2019  Sung Hoon Choi  Initial simulation
 --  03/09/2019  Sung Hoon Choi  Added comments
 
